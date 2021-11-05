@@ -1,0 +1,41 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-transform: capitalize;
+}
+
+.navbar {
+  background-image: linear-gradient(to right, #a517ba, #5f1782);
+  padding: 0 !important;
+}
+.navbar li a {
+  float: right;
+  text-align: left;
+}
+
+/*-----------banner section---------------*/
+
+#banner {
+  background-image: linear-gradient(to right, #a517ba, #5f1782);
+  color: #fff;
+  padding-top: 10%;
+}
+.pro-title {
+  font-weight: 600;
+  font-size: 50px;
+}
+.music-btn {
+  width: 48px;
+  margin: 5px;
+}
+.player-text {
+  text-decoration: none;
+}
+.image-fluid {
+  width: 48vw;
+  height: 30vh;
+}
+.bottom-img {
+  width: 100vw;
+}
